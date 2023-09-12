@@ -5,7 +5,7 @@ Sou Elias Matheus, um **desenvolvedor de software back-end** apaixonado por tecn
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/elias-matheus-389225288/)
 
 ## 💥 Hard skills:
-![Minhas skills](https://skillicons.dev/icons?i=js,nodejs,sqlite,git)
+![Minhas skills](https://skillicons.dev/icons?i=js,nodejs,postgres,git)
 
 ![Principais Linguagues](https://github-readme-stats.vercel.app/api/top-langs/?username=ematheuslima&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagues)
 
